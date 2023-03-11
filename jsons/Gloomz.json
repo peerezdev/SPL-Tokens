@@ -1,0 +1,15 @@
+{
+    "name": "Gloomz",
+    "symbol": "GLMZ",
+    "description": "",
+    "image": "",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "",
+                "type": "image/png"
+            }
+        ]
+    }
+}
