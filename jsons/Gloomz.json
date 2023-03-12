@@ -2,9 +2,11 @@
     "name": "Gloomz",
     "symbol": "GLMZ",
     "description": "",
+    "seller_fee_basis_points": 0,
     "image": "",
-    "attributes": [],
+    "external_url": "",
     "properties": {
+        "category": "image",
         "files": [
             {
                 "uri": "",
